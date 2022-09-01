@@ -3,7 +3,7 @@
 ## Grup Üyeleri
 - Can Bayazit
 
-##LIVE
+## LIVE
 
 [MARVEL WEB APP](https://marvelwebapplication.netlify.app/)
 
