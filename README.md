@@ -1,7 +1,7 @@
 # Odev-4
 
 ## Grup Üyeleri
-- [Can] [Bayazit]
+- Can Bayazit
 
 
 ## İçerik
